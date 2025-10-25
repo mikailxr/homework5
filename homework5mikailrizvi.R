@@ -53,4 +53,6 @@ ggplot(all_players, aes(x = Min, y = Gls)) + geom_point(data = not_highlighted_d
 
 #CITING SOURCES: I had some help from claude to explain why the dashes werent working for age, and learned how to implement sub and gsub
 #Along with this, I ran into an error that says NAS introduced by coercion. This was because some of my values couldnt be converted into numbers. Thats why I used asnumeric. 
-
+#For the higlighting part,I was a little confused but I learned that sample[etc] would be a way to randomly collect a player individually
+# With this sample I used as.characer to convert it into a data type that I could use for comparisons. 
+# For the second graph, I used some other ggplot functins like hjust and vjust, the horizontal justification os 0.5 or centered, and the vertical is farther down for the name of the highlighted player, as well as bolding the text
