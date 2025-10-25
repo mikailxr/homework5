@@ -17,8 +17,8 @@ https://fbref.com/en/
 - `HoustonDashSheet1.csv` - Houston Dash player data
 - `GothamFCSheet1.csv` - Gotham FC player data
 - `OrlandoPrideSheet1.csv` - Orlando Pride player data
-- `RQ1GraphMR.png` - Graph for RQ1
-- `RQ2GraphMR.png` - Graph for RQ2
+- `RQ1MR.png` - Graph for RQ1
+- `RQ2MR.png` - Graph for RQ2
 - `README.md` - This file
 
 ## How to Reproduce Results
