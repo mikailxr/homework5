@@ -12,7 +12,7 @@ https://fbref.com/en/
 
 ### RQ2: How is minutes played related to the number of goals scored for NWSL players?
 
-## Files in Repository
+## Files in Repository Needed for Reproducing
 - `homework5mikailrizvi.r` - R script for analysis
 - `HoustonDashSheet1.csv` - Houston Dash player data
 - `GothamFCSheet1.csv` - Gotham FC player data
